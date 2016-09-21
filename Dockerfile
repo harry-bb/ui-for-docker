@@ -1,4 +1,4 @@
-FROM cloudinovasi/cloudinovasi-ui
+FROM cloudinovasi/portainer
 
 ADD favicon.ico /ico
 ADD small.png /images/logo.png
