@@ -19,4 +19,8 @@ This will make sure that the docker container is started with the appropriate pe
 
 # Portainer Dashboard
 
-![Portainer Dashboard](https://raw.githubusercontent.com/dtag-dev-sec/ui-for-docker/master/doc/dashboard.png)
+![Portainer Dashboard](https://raw.githubusercontent.com/dtag-dev-sec/ui-for-docker/master/doc/dashboard1.png)
+![Portainer Dashboard](https://raw.githubusercontent.com/dtag-dev-sec/ui-for-docker/master/doc/dashboard2.png)
+![Portainer Dashboard](https://raw.githubusercontent.com/dtag-dev-sec/ui-for-docker/master/doc/dashboard3.png)
+![Portainer Dashboard](https://raw.githubusercontent.com/dtag-dev-sec/ui-for-docker/master/doc/dashboard4.png)
+![Portainer Dashboard](https://raw.githubusercontent.com/dtag-dev-sec/ui-for-docker/master/doc/dashboard5.png)
